@@ -1,0 +1,84 @@
+body{
+    background-image: url(bg.jpg);
+    background-size:cover;
+    background-position: -200px;
+
+}
+
+.container{
+    background-color: white;
+    border-radius: 18px;
+}
+
+.navbar-color{
+    background-color: black;
+}
+.navbar a{
+    color:rgb(240, 240, 227);
+}
+.navbar a:hover{
+    color:white;
+}
+
+.btn-1{
+    border-radius: 15px;
+    text-align: center;
+    background-color: rgb(57, 202, 57);
+    border: 0px;
+}
+
+.navbar-toggler-icon{
+    color: white;
+}
+.navbar img{
+    border-radius: 32%;
+}
+
+.dropdown-menu> .dropdown-item{
+    color:black ;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.container>p + span{
+    color: black;
+}
+
+.spantext{
+    color: rgb(35, 175, 129);
+}
+
+.spantext2{
+    color: rgb(37, 160, 37);
+}
+
+.bgcolor{
+    display: inline-block;
+    background-color: rgba(230, 230, 215, 0.3);
+}
+.imageandtext{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container2{
+    background-color: rgb(237, 248, 244);
+}
+.bgcolor2{
+    display: inline;
+    background-color: white;
+}
+.para3{
+    display: inline;
+    background-color: rgb(237, 248, 244);
+}
+
+.spantext3{
+    color:blue
+}
